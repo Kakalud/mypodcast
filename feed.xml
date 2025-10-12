@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
   <channel>
     <title>Bajkowe Poddasze</title>
-    <link>https://example.com/feed.xml</link>
+    <link>https://github.com/Kakalud/mypodcast/blob/main/feed.xml</link>
     <language>pl-PL</language>
     <copyright>Private use only</copyright>
     <itunes:author>W</itunes:author>
@@ -606,4 +606,5 @@
       <pubDate>Wed, 01 Jan 2025 17:00:00 GMT</pubDate>
     </item>
       </channel>
+
 </rss>
